@@ -25,3 +25,24 @@ An AI-powered legal awareness platform designed to help users understand their l
 
 ## 📂 Project Structure
 
+
+---
+
+## 🎯 Objective
+
+To make legal knowledge accessible to everyone using AI, clean UI, and easy-to-understand language.
+
+---
+
+## 👨‍💻 Author
+
+**Arnav Mishra**  
+Computer Science (AI & ML)  
+GitHub: [@ArnavMishra786](https://github.com/ArnavMishra786)
+
+---
+
+## ⚠️ Disclaimer
+
+This platform is for **educational purposes only** and does not provide official legal advice.
+
