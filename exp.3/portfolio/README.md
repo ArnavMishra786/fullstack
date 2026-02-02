@@ -56,4 +56,4 @@ It showcases my **profile, projects, skills, and achievements** in a clean, prof
 
 ## 📂 Folder Structure
 
-![ss](exp.3\portfolio\screenshot\portfolio screenshot.png)
+![ss](https://github.com/ArnavMishra786/fullstack/blob/607a95596bd6a46bc86cb6d18de93efa9dd8c24c/exp.3/portfolio/screenshot/portfolio%20screenshot.png)
