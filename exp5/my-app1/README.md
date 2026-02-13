@@ -33,4 +33,4 @@ src/
   ```js
   const MyProfile = lazy(() => import("./components/MyProfile"));
 ![dashboard](https://github.com/ArnavMishra786/fullstack/blob/ae92540517fe2cd8fb9211ab07ed076ee4aade5e/exp5/my-app1/screnshot/dashboard.png)
-![loading](exp5\my-app1\screnshot\loading.png)
+![loading](https://github.com/ArnavMishra786/fullstack/blob/8803cc9bb30760f9e5b4f03abdaa2698c3fdf7c4/exp5/my-app1/screnshot/loading.png)
