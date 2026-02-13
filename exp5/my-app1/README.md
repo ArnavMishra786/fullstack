@@ -32,6 +32,5 @@ src/
 - Components are loaded dynamically using:
   ```js
   const MyProfile = lazy(() => import("./components/MyProfile"));
-![dashboard]([exp5\my-app1\screnshot\dashboard.png](https://github.com/ArnavMishra786/fullstack/blob/ae92540517fe2cd8fb9211ab07ed076ee4aade5e/exp5/my-app1/screnshot/dashboard.png)
-![dashboard]()
+![dashboard](https://github.com/ArnavMishra786/fullstack/blob/ae92540517fe2cd8fb9211ab07ed076ee4aade5e/exp5/my-app1/screnshot/dashboard.png)
 ![loading](exp5\my-app1\screnshot\loading.png)
