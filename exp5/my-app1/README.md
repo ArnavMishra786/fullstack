@@ -33,5 +33,5 @@ src/
   ```js
   const MyProfile = lazy(() => import("./components/MyProfile"));
 
-  ![dashboard](exp5\my-app1\screnshot\dashboard.png)
-   ![loading](exp5\my-app1\screnshot\loading.png)
+ ![dashboard](exp5\my-app1\screnshot\dashboard.png)
+![loading](exp5\my-app1\screnshot\loading.png)
