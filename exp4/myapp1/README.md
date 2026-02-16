@@ -78,8 +78,8 @@ App will run on:
 http://localhost:5173/
 
 📸 Screenshot
-![decrement](exp4\myapp1\ss\decrement.png)
-![increment](exp4\myapp1\ss\increment.png)
+![decrement](https://github.com/ArnavMishra786/fullstack/blob/5f3a97deccde96293d1a7485e01776f79fbdaa91/exp4/myapp1/ss/decrement.png)
+![increment]()
 🎯 Learning Purpose
 
 This project was created to understand:
