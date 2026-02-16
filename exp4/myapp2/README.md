@@ -121,5 +121,5 @@ Add localStorage persistence
 Add multiple counters
 
 SCREENSHOTS
-![decrement](exp4\myapp2\ss\decre.png)
-![increment](exp4\myapp2\ss\incre.png)
+![decrement](https://github.com/ArnavMishra786/fullstack/blob/58a42c688852618d54828b6f55bb792798c9e096/exp4/myapp2/ss/decre.png)
+![increment](https://github.com/ArnavMishra786/fullstack/blob/58a42c688852618d54828b6f55bb792798c9e096/exp4/myapp2/ss/incre.png)
