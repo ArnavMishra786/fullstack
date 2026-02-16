@@ -79,7 +79,7 @@ http://localhost:5173/
 
 📸 Screenshot
 ![decrement](https://github.com/ArnavMishra786/fullstack/blob/5f3a97deccde96293d1a7485e01776f79fbdaa91/exp4/myapp1/ss/decrement.png)
-![increment]()
+![increment](https://github.com/ArnavMishra786/fullstack/blob/c4c3459bf3d02529ec475cd82320173a336f7804/exp4/myapp1/ss/increment.png)
 🎯 Learning Purpose
 
 This project was created to understand:
