@@ -147,9 +147,9 @@ http://localhost:5173
 
 ## 🧠 Regex Used
 
-### Email Regex
+![succesful](https://github.com/ArnavMishra786/fullstack/blob/15eecb42027d76974812454e22f3d120221131a3/exp6/myapp2/ss/Screenshot%202026-02-23%20153520.png)
+![email error](https://github.com/ArnavMishra786/fullstack/blob/15eecb42027d76974812454e22f3d120221131a3/exp6/myapp2/ss/Screenshot%202026-02-23%20153613.png)
+![password error](https://github.com/ArnavMishra786/fullstack/blob/15eecb42027d76974812454e22f3d120221131a3/exp6/myapp2/ss/Screenshot%202026-02-23%20153630.png)
 
-```js
-/^[a-zA-Z0-9]+(\.[a-zA-Z0-9]+)?@[a-zA-Z0-9-]+\.(com|in|org|net|edu|gov|co|io)$/
-Password Regex
-/^[A-Z](?=.*[0-9])(?=.*[!@#$%^&*])[A-Za-z0-9!@#$%^&*]{4,}$/
+
+
