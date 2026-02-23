@@ -81,3 +81,6 @@ npm run dev
 - Cancel button clears all input fields.
 
 ---
+
+![page](https://github.com/ArnavMishra786/fullstack/blob/75274f7fba06d121b4329a1f225b07c26cb0bf0c/exp6/myapp1/ss/Screenshot%202026-02-20%20153023.png)
+![alert](https://github.com/ArnavMishra786/fullstack/blob/75274f7fba06d121b4329a1f225b07c26cb0bf0c/exp6/myapp1/ss/Screenshot%202026-02-20%20153023.png)
