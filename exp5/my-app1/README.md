@@ -35,3 +35,4 @@ src/
 
  ![dashboard](exp5\my-app1\screnshot\dashboard.png)
 ![loading](exp5\my-app1\screnshot\loading.png)
+![router](exp5\my-app1\screnshot\router loading.png)
