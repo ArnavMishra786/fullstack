@@ -94,3 +94,7 @@ mvnw.cmd spring-boot:run
 * You can test APIs using tools like Postman or any REST client.
 
 ---
+
+SCREENSHOTS 
+![Output](https://github.com/ArnavMishra786/fullstack/blob/ec26fab856517e2b28262c8188882badfa082c47/exp8/try/image.png)
+![output2](https://github.com/ArnavMishra786/fullstack/blob/ec26fab856517e2b28262c8188882badfa082c47/exp8/try/image2.png)
