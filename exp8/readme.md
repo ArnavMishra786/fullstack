@@ -96,5 +96,10 @@ mvnw.cmd spring-boot:run
 ---
 
 SCREENSHOTS 
-![Output](https://github.com/ArnavMishra786/fullstack/blob/ec26fab856517e2b28262c8188882badfa082c47/exp8/try/image.png)
-![output2](https://github.com/ArnavMishra786/fullstack/blob/ec26fab856517e2b28262c8188882badfa082c47/exp8/try/image2.png)
+![tmcot](https://github.com/ArnavMishra786/fullstack/blob/2b410f36c5adde509bc7ca2036c4e43cd9dd1485/exp8/try/image.jpeg)
+![post](https://github.com/ArnavMishra786/fullstack/blob/2b410f36c5adde509bc7ca2036c4e43cd9dd1485/exp8/try/image1.jpeg)
+![get](https://github.com/ArnavMishra786/fullstack/blob/2b410f36c5adde509bc7ca2036c4e43cd9dd1485/exp8/try/image2.jpeg)
+![put](https://github.com/ArnavMishra786/fullstack/blob/2b410f36c5adde509bc7ca2036c4e43cd9dd1485/exp8/try/image3.jpeg)
+![delete](https://github.com/ArnavMishra786/fullstack/blob/2b410f36c5adde509bc7ca2036c4e43cd9dd1485/exp8/try/image4.jpeg)
+![output](https://github.com/ArnavMishra786/fullstack/blob/2b410f36c5adde509bc7ca2036c4e43cd9dd1485/exp8/try/imag5.jpeg)
+
