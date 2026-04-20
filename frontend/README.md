@@ -137,6 +137,6 @@ window.Buffer = Buffer
 Developed by Arnav Mishra
 
 SCREENSHOTS 
-![BACKEND](exp10\SS\Screenshot 2026-04-17 145102.png)
-![CHAT1](exp10\SS\Screenshot 2026-04-17 150800.png)
-![CHAT2](exp10\SS\Screenshot 2026-04-17 150805.png)
+![BACKEND](https://github.com/ArnavMishra786/fullstack/blob/c1f2d81dbdbddb913ae2ee269ff2afc2cc452829/frontend/SS/Screenshot%202026-04-17%20145102.png)
+![CHAT1](https://github.com/ArnavMishra786/fullstack/blob/c1f2d81dbdbddb913ae2ee269ff2afc2cc452829/frontend/SS/Screenshot%202026-04-17%20150800.png)
+![CHAT2](https://github.com/ArnavMishra786/fullstack/blob/c1f2d81dbdbddb913ae2ee269ff2afc2cc452829/frontend/SS/Screenshot%202026-04-17%20150805.png)
